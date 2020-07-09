@@ -1,3 +1,4 @@
 #!bin/bash
-./print _groups.sh
+print group
+h
 
